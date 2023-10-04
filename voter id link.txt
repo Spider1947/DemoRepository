@@ -1,0 +1,6 @@
+1 https://www.nvsp.in/
+
+2 https://voters.eci.gov.in/
+
+3 https://electoralsearch.in/
+(view the information of V-id card) 
