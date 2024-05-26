@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi! how are you..
+=======
+gjguuavsudhfakjhfuamnklnbnbn
+>>>>>>> ad57b1309dfaa6302d4687311df04b6cf3db4d9c
