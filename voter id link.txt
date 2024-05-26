@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+1 https://www.nvsp.in/
+
+2 https://voters.eci.gov.in/
+
+3 https://electoralsearch.in/
+=======
+1 https://www.nvsp.in/
+
+2 https://voters.eci.gov.in/
+
+3 https://electoralsearch.in/
+>>>>>>> ce00fd5fbabdb8fd28e207df543db589f2a63e68
+(view the information of V-id card) 
